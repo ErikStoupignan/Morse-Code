@@ -96,3 +96,8 @@ def decode_sentence(sentence)
   x.each { |i| y += "#{decode_word(i)} " }
   y.strip
 end
+
+# Examples to test the code 
+# decode_sentence "-- .- -- .-"
+# decode_sentence "-- -.--   -. .- -- ."
+# decode_sentence ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."
