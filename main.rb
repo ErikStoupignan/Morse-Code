@@ -1,5 +1,4 @@
 # Challenge 1
-
 def decode_char(character)
   case character
   when '.-'
