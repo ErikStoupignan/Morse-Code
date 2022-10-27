@@ -97,7 +97,7 @@ def decode_sentence(sentence)
   y.strip
 end
 
-# Examples to test the code 
+# Examples to test the code
 # decode_sentence "-- .- -- .-"
 # decode_sentence "-- -.--   -. .- -- ."
 # decode_sentence ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."
