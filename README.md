@@ -1,4 +1,16 @@
 
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Morse Code Project
+
+## Built With
+
+- Ruby
+
+## Getting Started
+
+To get a local copy up and running it, follow these simple steps.
+
 ### Setup
 
 1. Create an empty folder in your computer to store the clone.
