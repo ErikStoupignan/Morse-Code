@@ -1,4 +1,4 @@
-/* Challenge 1 */
+# Challenge 1 
 def decode_char(character)
 	case character
 	when character = ".-"
@@ -59,7 +59,7 @@ def decode_char(character)
 end
 
 
-/* Challenge 2 */
+# Challenge 2 
 def decode_word(word)
 	y = ""
 	x = word.split(/ /)
@@ -68,7 +68,7 @@ def decode_word(word)
 end
 
 
-/* Challenge 3 */
+# Challenge 3 
 def decode_sentence(sentence)
 	y = ""
 	x = sentence.split(/   /)
